@@ -1,3 +1,2 @@
 - 👋 Hola, soy @auterigustavo
-- 👀 No desarrollo profesionalmente, me gusta programar para resolver situaciones determinadas y tambien para fines de ocio
-- 🌱 Actualmente estoy practicando algo de desarrollo web con HTML, CSS y Django. Tambien estoy armando mis primeras Apps para android con Kotlin
+- 👀 Service Desk - Dev Trainee - QA Automation
