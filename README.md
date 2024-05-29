@@ -5,6 +5,7 @@
 
 - 📫 Como contactarme **auterigustavo@gmail.com**
 
+
 <h3 align="left">Visitame en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-auteri-62a5b4167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-auteri-62a5b4167" height="30" width="40" /></a>
